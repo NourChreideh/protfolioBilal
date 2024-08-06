@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0bd943cb.css",
+    "main.js": "/static/js/main.2523a635.js",
+    "static/media/profile.png": "/static/media/profile.c1bf60607c1387f9ea3f.png",
+    "static/media/coverlettergraphic.jpg": "/static/media/coverlettergraphic.af5a61fea7cb1356d545.jpg",
+    "static/media/rock.png": "/static/media/rock.94214e17f2cf58af06bc.png",
+    "static/media/Matlabpng.png": "/static/media/Matlabpng.8b74145ca3da31b5d501.png",
+    "static/media/controlSystem.png": "/static/media/controlSystem.daeea5ea1f3738f08e1b.png",
+    "static/media/EmbeddedSystems.png": "/static/media/EmbeddedSystems.07651d90d2266d605649.png",
+    "static/media/PowerSystems.png": "/static/media/PowerSystems.3cdcdd7fb99efdc932e9.png",
+    "static/media/CV.webp": "/static/media/CV.23bb044461da039f81c4.webp",
+    "static/media/AutoCADElectrical.png": "/static/media/AutoCADElectrical.553818aad2e60023f197.png",
+    "static/media/TLMS_20230427_1200x628-1.png": "/static/media/TLMS_20230427_1200x628-1.49b8bafded2a6e764b5f.png",
+    "static/media/LabVIEW.png": "/static/media/LabVIEW.e883da7f471eb6f8cd37.png",
+    "static/media/RenewableEnergy.png": "/static/media/RenewableEnergy.dd0aa41aab954f7885f0.png",
+    "static/media/oversight-concept-illustration_114360-11355.avif": "/static/media/oversight-concept-illustration_114360-11355.219b9eca862c50a5dfb5.avif",
+    "index.html": "/index.html",
+    "main.0bd943cb.css.map": "/static/css/main.0bd943cb.css.map",
+    "main.2523a635.js.map": "/static/js/main.2523a635.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bd943cb.css",
+    "static/js/main.2523a635.js"
+  ]
+}
