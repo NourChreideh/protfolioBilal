@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BilalProtfolio-react/static/css/main.6344a228.css",
+    "main.js": "/BilalProtfolio-react/static/js/main.d1f595c3.js",
+    "static/media/profile.png": "/BilalProtfolio-react/static/media/profile.c1bf60607c1387f9ea3f.png",
+    "static/media/Matlabpng.png": "/BilalProtfolio-react/static/media/Matlabpng.8b74145ca3da31b5d501.png",
+    "static/media/controlSystem.png": "/BilalProtfolio-react/static/media/controlSystem.daeea5ea1f3738f08e1b.png",
+    "static/media/EmbeddedSystems.png": "/BilalProtfolio-react/static/media/EmbeddedSystems.07651d90d2266d605649.png",
+    "static/media/PowerSystems.png": "/BilalProtfolio-react/static/media/PowerSystems.3cdcdd7fb99efdc932e9.png",
+    "static/media/CV.webp": "/BilalProtfolio-react/static/media/CV.23bb044461da039f81c4.webp",
+    "static/media/AutoCADElectrical.png": "/BilalProtfolio-react/static/media/AutoCADElectrical.553818aad2e60023f197.png",
+    "static/media/TLMS_20230427_1200x628-1.png": "/BilalProtfolio-react/static/media/TLMS_20230427_1200x628-1.49b8bafded2a6e764b5f.png",
+    "static/media/LabVIEW.png": "/BilalProtfolio-react/static/media/LabVIEW.e883da7f471eb6f8cd37.png",
+    "static/media/RenewableEnergy.png": "/BilalProtfolio-react/static/media/RenewableEnergy.dd0aa41aab954f7885f0.png",
+    "index.html": "/BilalProtfolio-react/index.html",
+    "main.6344a228.css.map": "/BilalProtfolio-react/static/css/main.6344a228.css.map",
+    "main.d1f595c3.js.map": "/BilalProtfolio-react/static/js/main.d1f595c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6344a228.css",
+    "static/js/main.d1f595c3.js"
+  ]
+}
